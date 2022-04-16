@@ -1,0 +1,20 @@
+.card-body {
+  text-align: center;
+}
+.card-text {
+  font-size: 13px;
+}
+.card-price {
+  font-size: 15px;
+}
+.card {
+  margin: 10px 5px 10px 0px;
+}
+table {
+  width: 300px;
+  border-collapse: collapse;
+}
+th {
+  padding: 3px; /* Поля вокруг содержимого таблицы */
+    border: 1px solid black; /* Параметры рамки */
+}
